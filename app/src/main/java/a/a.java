@@ -10,4 +10,4 @@ public class a extends BootSigner {
     public static boolean patchAPK(String in, String out, String pkg) {
         return PatchAPK.patch(in, out, pkg);
     }
-}
+} 
